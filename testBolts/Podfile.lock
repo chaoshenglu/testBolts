@@ -1,0 +1,16 @@
+PODS:
+  - Bolts-Swift (1.5.0)
+
+DEPENDENCIES:
+  - Bolts-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Bolts-Swift
+
+SPEC CHECKSUMS:
+  Bolts-Swift: afbbaf8c8186e7f769be4afa656949c14087ba44
+
+PODFILE CHECKSUM: 7c51233c50f8f24442246019fee36be75a78d5ec
+
+COCOAPODS: 1.9.1
