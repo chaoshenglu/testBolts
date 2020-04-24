@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -52,7 +52,6 @@
 				2BD42FC29288815213CCEF74 /* Pods-testBolts.debug.xcconfig */,
 				0F64D27A9A526E4C82236BC1 /* Pods-testBolts.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -77,13 +76,21 @@
 		C95565BA245311300060E3A2 /* testBolts */ = {
 			isa = PBXGroup;
 			children = (
+				C95565CF245312810060E3A2 /* New Group */,
 				C95565BB245311300060E3A2 /* AppDelegate.swift */,
 				C95565BF245311300060E3A2 /* ViewController.swift */,
+			);
+			path = testBolts;
+			sourceTree = "<group>";
+		};
+		C95565CF245312810060E3A2 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
 				C95565C4245311310060E3A2 /* Assets.xcassets */,
 				C95565C6245311310060E3A2 /* LaunchScreen.storyboard */,
 				C95565C9245311310060E3A2 /* Info.plist */,
 			);
-			path = testBolts;
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
